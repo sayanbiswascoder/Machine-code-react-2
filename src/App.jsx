@@ -3,8 +3,8 @@ import {
   createBrowserRouter,
   RouterProvider
 } from "react-router-dom";
-import RandomUser from "./components/randomUser";
-import RamdomJokes from "./components/ramdomJokes";
+import RandomUser from "./components/RandomUser";
+import RamdomJokes from "./components/RamdomJokes";
 import CatsListing from "./components/CatsListing";
 
 function App() {
